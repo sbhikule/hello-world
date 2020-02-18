@@ -1,7 +1,7 @@
 {
 	"accesstoken": {
-		"access_token": "AccessToken",
-		"refresh_token": "RefreshToken",
+		"access_token": "some_random_generated_access_token",
+		"refresh_token": "some_random_generated_refresh_token",
 		"expires_in": "359999"
 	}
 }
