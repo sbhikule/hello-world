@@ -3,5 +3,9 @@
 		"access_token": "some_random_generated_access_token",
 		"refresh_token": "some_random_generated_refresh_token",
 		"expires_in": "359999"
+	},
+	"service-invitation": {
+	  	"url": "https://www.trustpilot.com/evaluate-link/9ee95945f2aa3a748301efdc6b8b51d7",
+	  	"id": "9ee95945f2aa3a748301efdc6b8b51d7"
 	}
 }
